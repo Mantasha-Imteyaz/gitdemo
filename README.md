@@ -1,2 +1,2 @@
-# gitdemo
-just use to revise the git 
+# GitDemo
+Just make a new repo to revise the git.
